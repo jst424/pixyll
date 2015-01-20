@@ -4,7 +4,7 @@ email:       your_email@example.com
 author:      John Otander
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     "/pixyll"
-url:         "http://pixyll.com"
+url:         "http://192.168.0.4"
 
 # Google analytics
 google_analytics:
